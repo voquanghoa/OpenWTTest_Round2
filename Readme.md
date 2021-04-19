@@ -14,7 +14,7 @@ fun count(nums: IntArray, index: Int, S: Int): Int {
 }
 ```
 
-Tham khảo !(https://leetcode.com/problems/target-sum/)[https://leetcode.com/problems/target-sum/] với lời giải là
+Tham khảo [Target sum](https://leetcode.com/problems/target-sum/)
 
 ```kotlin
 class Solution {
@@ -138,7 +138,7 @@ class Solution {
 404 Code not found
 ```
 
-Tham khảo: !(https://leetcode.com/problems/restore-ip-addresses/)[https://leetcode.com/problems/restore-ip-addresses/]
+Tham khảo: [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
 ## Bài 4.
 
